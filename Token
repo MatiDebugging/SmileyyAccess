@@ -1,0 +1,2 @@
+if {access_token} is not "vfr.cmd-admin":
+print('Uh, stinky..')
